@@ -22,7 +22,7 @@
   align-items: center;
   flex-direction: column;
   gap: 10px;
-  border: 2px solid black;
+  border: 2px solid rgb(162, 0, 0);
   padding: 20px;
 }
 </style>
